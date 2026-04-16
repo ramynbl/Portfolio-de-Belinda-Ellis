@@ -66,9 +66,21 @@ export default async function ProjectPage({ params }) {
       {/* ── Description ── */}
       {details && (
         <section className={styles.descriptionSection}>
-          <h2 className={styles.descriptionTitle}>
-            {details.subtitle || 'À propos du projet'}
-          </h2>
+          <div className={styles.descriptionHeader}>
+            <h2 className={styles.descriptionTitle}>
+              {details.subtitle || 'À propos du projet'}
+            </h2>
+            {details.instagram && (
+              <a 
+                href={details.instagram} 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className={styles.instagramLink}
+              >
+                Instagram ↗
+              </a>
+            )}
+          </div>
           <div className={styles.descriptionText}>
             {details.description.map((paragraph, i) => (
               <p key={i}>{paragraph}</p>
