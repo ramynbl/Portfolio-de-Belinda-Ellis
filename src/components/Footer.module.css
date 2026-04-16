@@ -1,0 +1,141 @@
+.footer {
+  width: 100%;
+  padding: 4rem 0 2rem 0;
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divider {
+  width: 90%;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  margin: 0 auto 4rem auto;
+}
+
+.footerContent {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: 6rem;
+}
+
+/* Engagement Section */
+.engagementSection {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.engagementTitle {
+  font-family: var(--font-general-sans);
+  font-size: 2rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin: 0 0 1rem 0;
+  color: #000;
+}
+
+.engagementText {
+  font-family: var(--font-inter-tight), sans-serif;
+  font-size: 1rem;
+  color: #333;
+  margin: 0 0 2rem 0;
+  max-width: 400px;
+  line-height: 1.5;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+  max-width: 350px;
+}
+
+.input {
+  width: 100%;
+  padding: 1rem;
+  font-family: var(--font-inter-tight), sans-serif;
+  font-size: 0.9rem;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background: transparent;
+  color: #000;
+  border-radius: 0;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+.input:focus {
+  border-color: #000;
+}
+
+.submitBtn {
+  width: 100%;
+  padding: 1rem;
+  font-family: var(--font-general-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.submitBtn:hover {
+  opacity: 0.8;
+}
+
+/* Bottom Row */
+.bottomRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.logo a {
+  font-family: var(--font-general-sans);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #000;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.nav {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.nav a {
+  font-family: var(--font-general-sans);
+  color: #000;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  transition: opacity 0.3s ease;
+}
+
+.nav a:hover {
+  opacity: 0.6;
+}
+
+.socialLink {
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
+  padding-left: 1.5rem;
+}

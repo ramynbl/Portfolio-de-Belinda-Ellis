@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "FILE NOT FOUND",
+    "year": "2019",
+    "category": "Broadcast TV",
+    "industry": "Fashion",
+    "type": "Lifestyle",
+    "description": "Une description courte du premier projet.",
+    "imageUrl": "https://placehold.co/1200x800/eaeaea/000000?text=File+Not+Found",
+    "link": "/projects/1"
+  },
+  {
+    "id": 2,
+    "title": "COMES BACK",
+    "year": "2022",
+    "category": "Online",
+    "industry": "Automotive",
+    "type": "Lifestyle",
+    "description": "Une description courte du deuxième projet.",
+    "imageUrl": "https://placehold.co/1200x800/eaeaea/000000?text=Comes+Back",
+    "link": "/projects/2"
+  },
+  {
+    "id": 3,
+    "title": "NETWORKING",
+    "year": "2023",
+    "category": "Web Design",
+    "industry": "Technology",
+    "type": "Corporate",
+    "description": "Une description courte du troisième projet.",
+    "imageUrl": "https://placehold.co/1200x800/eaeaea/000000?text=Networking",
+    "link": "/projects/3"
+  }
+]
