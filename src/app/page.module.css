@@ -10,7 +10,15 @@
   grid-template-columns: 1fr 1fr;
   padding-top: 15vh;
   margin-bottom: 30vh;
-  /* Increased slightly to account for the removed intermediate section */
+  position: relative;
+  min-height: calc(100vh - 120px);
+}
+
+.scrollIndicator {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .emptyCol {
@@ -75,6 +83,7 @@
   margin-bottom: 20vh;
   margin-left: -4vw;
   margin-right: -4vw;
+  padding: 4rem 0;
 }
 
 @media (min-width: 1024px) {
@@ -85,8 +94,14 @@
 
 .aboutImageCol {
   position: relative;
-  min-height: 70vh;
+  min-height: 50vh;
   overflow: hidden;
+}
+
+@media (min-width: 1024px) {
+  .aboutImageCol {
+    min-height: auto;
+  }
 }
 
 .aboutImage {
@@ -103,13 +118,13 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 4rem 4vw;
+  padding: 0 4vw;
   gap: 2rem;
 }
 
 @media (min-width: 1024px) {
   .aboutTextCol {
-    padding: 4rem 4vw 4rem 4rem;
+    padding: 0 4vw 0 4rem;
   }
 }
 

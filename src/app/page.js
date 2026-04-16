@@ -33,6 +33,11 @@ export default function Home() {
             </p>
           </FadeInOnScroll>
         </div>
+        <div className={styles.scrollIndicator}>
+          <svg width="10" height="30" viewBox="0 0 10 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M5 0V28M5 28L1 24M5 28L9 24" stroke="black" strokeWidth="1" strokeLinecap="square"/>
+          </svg>
+        </div>
       </section>
 
       {/* About Label */}
