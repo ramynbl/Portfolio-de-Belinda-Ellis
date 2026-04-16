@@ -1,0 +1,30 @@
+{
+  "ripbm": {
+    "title": "RIPBM — Rencontres Internationales Paris/Berlin",
+    "subtitle": "Identité visuelle — Édition « Espace Hybride » 2021",
+    "description": [
+      "Dans le cadre d'un workshop en Mastère 2 Design Graphique et Numérique, j'ai contribué à la conception de l'identité visuelle des Rencontres Internationales Paris/Berlin 2021, édition « Espace Hybride », événement de référence dédié au nouveau cinéma et à l'art contemporain.",
+      "Ce projet, réalisé en réponse à une commande réelle, avait pour objectif de traduire graphiquement l'univers pluridisciplinaire de la manifestation, qui réunit chaque année artistes, réalisateurs et œuvres internationales autour de projections, performances, expositions et rencontres.",
+      "L'identité développée s'articule autour d'un système visuel inspiré des notions de regard, de projection et de perception, pensé comme un langage graphique modulable évoquant la relation entre le spectateur, l'écran et l'espace.",
+      "Mené en équipe, ce travail m'a permis d'intervenir sur la direction artistique, la charte graphique et le développement des supports de communication, dans une démarche alliant recherche conceptuelle et application événementielle."
+    ],
+    "coverImage": "/ripbm/ordi-ripbm.jpg",
+    "video": "/ripbm/ripm.mov",
+    "gallery": [
+      { "src": "/ripbm/ripbm1.jpg", "alt": "Affiche RIPBM — Déclinaison 1" },
+      { "src": "/ripbm/ripbm2.jpg", "alt": "Affiche RIPBM — Déclinaison 2" },
+      { "src": "/ripbm/ripbm3.jpg", "alt": "Charte graphique — Typographie" },
+      { "src": "/ripbm/ripbm4.jpg", "alt": "Charte graphique — Couleurs" },
+      { "src": "/ripbm/ripbm5.jpg", "alt": "Support de communication — Flyer" },
+      { "src": "/ripbm/ripbm6.jpg", "alt": "Support de communication — Programme" },
+      { "src": "/ripbm/ripbm7.jpg", "alt": "Déclinaison digitale" },
+      { "src": "/ripbm/ripbm8.jpg", "alt": "Mise en situation — Affichage" },
+      { "src": "/ripbm/ripbm9.jpg", "alt": "Mockup — Affiche en contexte" },
+      { "src": "/ripbm/ripbm10.jpg", "alt": "Mockup — Signalétique" }
+    ],
+    "mockups": [
+      { "src": "/ripbm/iphone-ripbm.jpg", "alt": "Mockup iPhone — Interface mobile RIPBM", "full": true },
+      { "src": "/ripbm/iphone-ripbm-2.jpg", "alt": "Mockup iPhone — Navigation mobile RIPBM", "full": true }
+    ]
+  }
+}

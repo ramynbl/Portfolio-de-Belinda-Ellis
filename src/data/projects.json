@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "slug": "ripbm",
+    "title": "RIPBM",
+    "year": "2021",
+    "category": "Identité visuelle",
+    "industry": "Art & Culture",
+    "type": "Événementiel",
+    "description": "Conception de l'identité visuelle des Rencontres Internationales Paris/Berlin 2021, édition « Espace Hybride ».",
+    "imageUrl": "/ripbm/ripbm1.jpg",
+    "link": "/projects/ripbm"
+  },
+  {
+    "id": 2,
+    "slug": "file-not-found",
     "title": "FILE NOT FOUND",
     "year": "2019",
     "category": "Broadcast TV",
@@ -8,10 +21,11 @@
     "type": "Lifestyle",
     "description": "Une description courte du premier projet.",
     "imageUrl": "https://placehold.co/1200x800/eaeaea/000000?text=File+Not+Found",
-    "link": "/projects/1"
+    "link": "/projects/file-not-found"
   },
   {
-    "id": 2,
+    "id": 3,
+    "slug": "comes-back",
     "title": "COMES BACK",
     "year": "2022",
     "category": "Online",
@@ -19,10 +33,11 @@
     "type": "Lifestyle",
     "description": "Une description courte du deuxième projet.",
     "imageUrl": "https://placehold.co/1200x800/eaeaea/000000?text=Comes+Back",
-    "link": "/projects/2"
+    "link": "/projects/comes-back"
   },
   {
-    "id": 3,
+    "id": 4,
+    "slug": "networking",
     "title": "NETWORKING",
     "year": "2023",
     "category": "Web Design",
@@ -30,6 +45,6 @@
     "type": "Corporate",
     "description": "Une description courte du troisième projet.",
     "imageUrl": "https://placehold.co/1200x800/eaeaea/000000?text=Networking",
-    "link": "/projects/3"
+    "link": "/projects/networking"
   }
 ]
