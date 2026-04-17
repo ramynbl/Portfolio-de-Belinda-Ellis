@@ -1,4 +1,44 @@
 {
+  "airy-0-mars": {
+    "title": "Airy-0 Mars",
+    "subtitle": "Storytelling & Packaging — Concept Parfum 2021",
+    "description": [
+      "Projet de packaging storytelling conçu durant mon Master en 2021, Airy-0 Mars est un concept de parfum imaginé autour de l’exploration et de l’inconnu. Réalisé en 3D, ce projet vise à traduire une narration immersive à travers l’objet, en s’inspirant de l’astronomie et de la planète Mars.",
+      "Le concept repose sur Airy-0, un cratère martien symbolique, point de rencontre entre l’Homme et un territoire encore inexploré. Le packaging devient ainsi une expérience sensorielle en deux temps : une enveloppe extérieure en Vantablack, matière ultra-absorbante qui évoque mystère et profondeur, puis une révélation intérieure aux teintes marbrées orangées, inspirées de la surface martienne et des codes du luxe.",
+      "Pensé pour interpeller et susciter la curiosité, le projet joue sur le contraste entre invisibilité et découverte, à l’image du parfum lui-même. J’ai travaillé sur la conception globale : direction artistique, storytelling, design packaging et modélisation 3D, dans une approche mêlant narration, matière et expérience utilisateur."
+    ],
+    "presentation":"/airy-mars/airy-mars.pdf",
+    "coverImage": "/airy-mars/airy-mars11.png",
+    "gallery": [
+      { "src": "/airy-mars/airy-mars1.png", "alt": "Airy-0 Mars — Rendu 3D 1" },
+      { "src": "/airy-mars/airy-mars2.png", "alt": "Airy-0 Mars — Rendu 3D 2" },
+      { "src": "/airy-mars/airy-mars3.png", "alt": "Airy-0 Mars — Rendu 3D 3" },
+      { "src": "/airy-mars/airy-mars4.png", "alt": "Airy-0 Mars — Détail packaging" },
+      { "src": "/airy-mars/airy-mars5.png", "alt": "Airy-0 Mars — Texture et matière" },
+      { "src": "/airy-mars/airy-mars6.png", "alt": "Airy-0 Mars — Visualisation 1" },
+      { "src": "/airy-mars/airy-mars7.png", "alt": "Airy-0 Mars — Visualisation 2" },
+      { "src": "/airy-mars/airy-mars8.png", "alt": "Airy-0 Mars — Mise en situation" },
+      { "src": "/airy-mars/airy-mars9.png", "alt": "Airy-0 Mars — Concept art" },
+      { "src": "/airy-mars/airy-mars10.png", "alt": "Airy-0 Mars — Rendu final" }
+    ]
+  },
+  "dallen": {
+    "title": "DALLEN — Petite Marie",
+    "subtitle": "Direction Artistique — Clip Musical (Inédit)",
+    "description": [
+      "Pour ce projet de clip musical, actuellement inédit, j’ai participé à la direction artistique en tant que styliste DA, tout en accompagnant également la captation caméra. Réalisé à partir de la reprise de Petite Marie par Dallen Gabriel, le clip développe un univers visuel mêlant mélancolie narrative et énergie musicale, en écho à la sensibilité poétique de l’artiste.",
+      "Le concept met en scène une déclaration d’amour suspendue entre rêve et solitude : Dallen Gabriel y incarne un personnage en quête de Marie, figure idéalisée et insaisissable, dans une narration où l’émotion du texte contraste avec une interprétation volontairement retenue face caméra. L’esthétique visuelle s’inspire des codes rétro des années 70 à 90, avec une ambiance chaleureuse et nostalgique, pensée pour renforcer l’identité singulière et audacieuse de l’artiste.",
+      "À travers le stylisme et les choix visuels, mon rôle a consisté à construire une cohérence esthétique entre narration, image et personnalité musicale, afin de traduire visuellement l’univers sensible et intemporel du projet."
+    ],
+    "coverImage": "/dallen/dallen1.png",
+    "gallery": [
+      { "src": "/dallen/dallen2.png", "alt": "DALLEN — Capture clip 1" },
+      { "src": "/dallen/dallen3.png", "alt": "DALLEN — Capture clip 2" },
+      { "src": "/dallen/dallen4.png", "alt": "DALLEN — Capture clip 3" },
+      { "src": "/dallen/dallen5.png", "alt": "DALLEN — Capture clip 4" },
+      { "src": "/dallen/dallen6.png", "alt": "DALLEN — Capture clip 5" }
+    ]
+  },
   "ripbm": {
     "title": "RIPBM — Rencontres Internationales Paris/Berlin",
     "subtitle": "Identité visuelle — Édition « Espace Hybride » 2021",

@@ -1,6 +1,18 @@
 [
   {
     "id": 1,
+    "slug": "airy-0-mars",
+    "title": "Airy-0 Mars",
+    "year": "2021",
+    "category": "Storytelling & Packaging",
+    "industry": "Luxe & Cosmétique",
+    "type": "Modélisation 3D",
+    "description": "Un concept de parfum imaginé autour de l’exploration et de l’inconnu. Packaging immersif d’inspiration martienne.",
+    "imageUrl": "/airy-mars/airy-mars11.png",
+    "link": "/projects/airy-0-mars"
+  },
+  {
+    "id": 2,
     "slug": "ripbm",
     "title": "RIPBM",
     "year": "2021",
@@ -12,39 +24,15 @@
     "link": "/projects/ripbm"
   },
   {
-    "id": 2,
-    "slug": "file-not-found",
-    "title": "FILE NOT FOUND",
-    "year": "2019",
-    "category": "Broadcast TV",
-    "industry": "Fashion",
-    "type": "Lifestyle",
-    "description": "Une description courte du premier projet.",
-    "imageUrl": "https://placehold.co/1200x800/eaeaea/000000?text=File+Not+Found",
-    "link": "/projects/file-not-found"
-  },
-  {
     "id": 3,
-    "slug": "comes-back",
-    "title": "COMES BACK",
-    "year": "2022",
-    "category": "Online",
-    "industry": "Automotive",
-    "type": "Lifestyle",
-    "description": "Une description courte du deuxième projet.",
-    "imageUrl": "https://placehold.co/1200x800/eaeaea/000000?text=Comes+Back",
-    "link": "/projects/comes-back"
-  },
-  {
-    "id": 4,
-    "slug": "networking",
-    "title": "NETWORKING",
-    "year": "2023",
-    "category": "Web Design",
-    "industry": "Technology",
-    "type": "Corporate",
-    "description": "Une description courte du troisième projet.",
-    "imageUrl": "https://placehold.co/1200x800/eaeaea/000000?text=Networking",
-    "link": "/projects/networking"
+    "slug": "dallen",
+    "title": "DALLEN",
+    "year": "2026",
+    "category": "Direction Artistique",
+    "industry": "Musique",
+    "type": "Clip Musical",
+    "description": "Direction artistique et stylisme pour le clip musical de la reprise de Petite Marie par Dallen Gabriel.",
+    "imageUrl": "/dallen/dallen1.png",
+    "link": "/projects/dallen"
   }
 ]

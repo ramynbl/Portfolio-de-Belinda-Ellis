@@ -80,6 +80,17 @@ export default async function ProjectPage({ params }) {
                 Instagram ↗
               </a>
             )}
+            {details.presentation && (
+              <a 
+                href={details.presentation} 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className={styles.presentationLink}
+                download
+              >
+                Voir la présentation (PDF) 🡓
+              </a>
+            )}
           </div>
           <div className={styles.descriptionText}>
             {details.description.map((paragraph, i) => (
