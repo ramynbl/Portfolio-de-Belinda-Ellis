@@ -20,11 +20,16 @@ export default function Contact() {
           {/* ── Intro + Form ── */}
           <FadeInOnScroll direction="up" delay={0.2} className={styles.formSide}>
 
-            <form className={styles.form}>
+            <form 
+              action="https://formspree.io/f/belindaellisnewton@gmail.com" 
+              method="POST"
+              className={styles.form}
+            >
               <div className={styles.formGroup}>
                 <label className={styles.formLabel} htmlFor="name">Nom</label>
                 <input
                   id="name"
+                  name="name"
                   type="text"
                   className={styles.formInput}
                   placeholder="Votre nom"
@@ -35,6 +40,7 @@ export default function Contact() {
                 <label className={styles.formLabel} htmlFor="email">Email</label>
                 <input
                   id="email"
+                  name="email"
                   type="email"
                   className={styles.formInput}
                   placeholder="votre@email.com"
@@ -45,6 +51,7 @@ export default function Contact() {
                 <label className={styles.formLabel} htmlFor="subject">Sujet</label>
                 <input
                   id="subject"
+                  name="subject"
                   type="text"
                   className={styles.formInput}
                   placeholder="Votre sujet"
@@ -54,6 +61,7 @@ export default function Contact() {
                 <label className={styles.formLabel} htmlFor="message">Message</label>
                 <textarea
                   id="message"
+                  name="message"
                   className={styles.formTextarea}
                   placeholder="Décrivez votre projet ou votre demande..."
                   rows={5}

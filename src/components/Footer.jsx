@@ -13,9 +13,17 @@ export default function Footer() {
           <p className={styles.engagementText}>
             Laissez votre email pour être recontacté(e) et discuter de vos prochains projets visuels.
           </p>
-          <form className={styles.form}>
+          <form 
+            action="https://formspree.io/f/belindaellisnewton@gmail.com" 
+            method="POST"
+            className={styles.form}
+          >
+            {/* Subject for Formspree */}
+            <input type="hidden" name="_subject" value="Nouvelle inscription - Footer Portfolio" />
+            
             <input 
               type="email" 
+              name="email"
               placeholder="votre@email.com" 
               className={styles.input} 
               required
