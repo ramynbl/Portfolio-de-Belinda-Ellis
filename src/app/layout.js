@@ -22,6 +22,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="fr" className={`${interTight.variable} ${generalSans.variable}`}>
+      <head>
+        <link rel="icon" href="/la-lettre-b.png" />
+      </head>
       <body>
         <div className="layout-container">
           <Header />
