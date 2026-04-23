@@ -21,10 +21,15 @@ export default function Contact() {
           <FadeInOnScroll direction="up" delay={0.2} className={styles.formSide}>
 
             <form 
-              action="https://formspree.io/f/belindaellisnewton@gmail.com" 
+              action="https://formsubmit.co/belindaellisnewton@gmail.com" 
               method="POST"
               className={styles.form}
             >
+              {/* Configuration FormSubmit */}
+              <input type="hidden" name="_subject" value="Nouveau message depuis le portfolio !" />
+              <input type="hidden" name="_template" value="table" />
+              <input type="hidden" name="_captcha" value="false" />
+
               <div className={styles.formGroup}>
                 <label className={styles.formLabel} htmlFor="name">Nom</label>
                 <input
